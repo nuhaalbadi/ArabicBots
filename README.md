@@ -5,8 +5,8 @@ This repo contains the labeled dataset (```Labeled_users.csv```) used in our CSC
 Please cite our paper if you find our data helpful for your research: 
 
 ```
-@inproceedings{Albadi2019hateful,
-  title={Hateful People or Hateful Bots? Detection and Characterization of Bots Spreading Religious Hatred in Arabic Social Media.},
+@article{albadi2019hateful,
+  title={Hateful People or Hateful Bots?: Detection and Characterization of Bots Spreading Religious Hatred in Arabic Social Media},
   author={Albadi, Nuha and Kurdi, Maram and Mishra, Shivakant},
   journal={Proceedings of the ACM on Human-Computer Interaction},
   volume={3},
