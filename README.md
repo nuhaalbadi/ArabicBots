@@ -6,13 +6,13 @@ Please cite our paper if you find our data helpful for your research:
 
 ```
 @article{albadi2019hateful,
-  title={Hateful People or Hateful Bots?: Detection and Characterization of Bots Spreading Religious Hatred in Arabic Social Media},
+  title={Hateful people or hateful bots? Detection and characterization of bots spreading religious hatred in Arabic social media},
   author={Albadi, Nuha and Kurdi, Maram and Mishra, Shivakant},
   journal={Proceedings of the ACM on Human-Computer Interaction},
   volume={3},
   number={CSCW},
-  pages={61},
+  pages={1--25},
   year={2019},
-  publisher={ACM}
+  publisher={ACM New York, NY, USA}
 }
 ```
